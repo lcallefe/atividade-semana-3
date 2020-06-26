@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">atividade_03_gps</string>
+    <string name="uri_mapa">geo: %f, %f?q=</string>
+    <string name="lat_long">Lat: %f Long: %f</string>
+    <string name="GPSInactive">GPS Inactive</string>
+    <string name="GPSActive">GPS Active</string>
+    <string name="enableGPS">GPS ON</string>
+    <string name="disableGPS">GPS OFF</string>
+    <string name="start">Let\'s Go</string>
+    <string name="finish">Finish</string>
+    <string name="search">What do you want to find?</string>
+    <string name="reset">Reset</string>
+
+    <string name="enableYourGPS">GPS must be enabled</string>
+
+    <string name="progress">Your Progress</string>
+    <string name="getPermission">Permission required to use GPS</string>
+
+</resources>
